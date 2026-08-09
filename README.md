@@ -23,5 +23,13 @@ A simple Python project that demonstrates **file handling** by storing student r
 3. Open a terminal in the project folder.
 4. Run:
 
+## 📁 Generated Files
+
+The program automatically creates:
+- `student.txt` — stores student records
+- `log.txt` — stores activity logs
+
+These files are not included in the repository because they may contain personal information.
+
 ```bash
 python student_record.py
