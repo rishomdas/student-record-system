@@ -1,2 +1,27 @@
-# student-record-system
-A simple Python project demonstrating file handling and student record management.
+# Student Record System 🧑‍🎓
+
+A simple Python project that demonstrates **file handling** by storing student records and maintaining an activity log.
+
+## 📌 Features
+
+- Takes student name, age, and date of birth as input
+- Saves student information to a text file
+- Maintains a log of added records
+- Uses append mode to preserve existing records
+- Demonstrates basic Python file handling
+
+## 🛠️ Technologies Used
+
+- Python
+- File Handling
+- Text Files
+
+## ▶️ How to Run
+
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+```bash
+python student_record.py
